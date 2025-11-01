@@ -1,0 +1,21 @@
+# Python cache and virtual environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env/
+.venv/
+venv/
+env/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project-specific
+nickname_history.json
